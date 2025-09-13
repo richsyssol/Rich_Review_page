@@ -43,7 +43,7 @@ const ReviewSection = () => {
         <div className="bg-white rounded-xl shadow-2xl p-8 max-w-md w-full">
           <div className="flex justify-center mb-6">
             <div className="w-24 h-24  rounded-full flex items-center justify-center text-white text-2xl font-bold">
-              <img src="public/logo.png" alt="Rich System Solutions" />
+              <img src="src\assets\Logo\logo.png" alt="Rich System Solutions" />
             </div>
           </div>
 
